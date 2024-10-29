@@ -2,7 +2,7 @@ document.getElementById('btnClick').addEventListener('click', function() {
     document.getElementById('output').textContent = '¡Botón clicado!';
 });
 
-//*Este es un metodo
+//*Este es un metodo , sigueme para mas informacion
 document.getElementById('btnClick').addEventListener('click', function() {
     document.getElementById('output').textContent = '¡Botón clicado!';
 });
